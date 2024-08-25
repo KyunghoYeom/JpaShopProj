@@ -1,0 +1,13 @@
+package sejong.example.kyungho;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class KyunghoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(KyunghoApplication.class, args);
+	}
+
+}
